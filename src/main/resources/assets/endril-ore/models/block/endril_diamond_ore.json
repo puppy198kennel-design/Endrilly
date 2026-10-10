@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "endril-ore:block/endril_diamond_ore"
+  }
+}

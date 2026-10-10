@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": "#minecraft:trim_materials",
+  "base": "#minecraft:trimmable_armor",
+  "pattern": "endril-ore:endril",
+  "template": "endril-ore:endril_smithing_template"
+}

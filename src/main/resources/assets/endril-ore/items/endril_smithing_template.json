@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "endril-ore:item/endril_smithing_template"
+  }
+}

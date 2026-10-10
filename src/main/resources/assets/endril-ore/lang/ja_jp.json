@@ -1,0 +1,17 @@
+{
+  "item.endril-ore.endril": "エンドリル",
+  "item.endril-ore.endril_ore": "エンドリル鉱石",
+  "block.endril-ore.endril_ore": "エンドリル鉱石",
+  "item.endril-ore.endril_diamond_ore": "エンドリルダイヤ鉱石",
+  "block.endril-ore.endril_diamond_ore": "エンドリルダイヤ鉱石",
+  "item.endril-ore.endril_emerald_ore": "エンドリルエメラルド鉱石",
+  "block.endril-ore.endril_emerald_ore": "エンドリルエメラルド鉱石",
+  "item.endril-ore.endril_harvester": "エンドリル・ハーベスター",
+  "creativeTab.endril-ore": "Endrilly",
+  "trim_material.endril-ore.endril": "エンドリル",
+  "trim_pattern.endril-ore.endril": "エンドリル",
+  "item.endril-ore.endril_smithing_template": "エンドリル強化鍛冶型",
+  "item.endril-ore.endril_sword": "エンパルトル大剣",
+  "block.endril-ore.endril_block": "エンドリルブロック",
+  "item.endril-ore.endril_block": "エンドリルブロック"
+}

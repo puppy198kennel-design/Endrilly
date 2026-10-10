@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "endril-ore:item/endril"
+  },
+  "components": {
+    "minecraft:provides_trim_material": "endril-ore:endril"
+  }
+}

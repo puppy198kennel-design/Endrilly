@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DED",
+    " B "
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "E": "endril-ore:endril",
+    "B": "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "endril-ore:endril_sword",
+    "count": 1
+  }
+}

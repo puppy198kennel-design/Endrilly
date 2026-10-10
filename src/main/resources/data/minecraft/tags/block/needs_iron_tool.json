@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "endril-ore:endril_ore",
+    "endril-ore:endril_diamond_ore",
+    "endril-ore:endril_emerald_ore"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "prefix": "block/",
+      "source": "block"
+    },
+    {
+      "type": "minecraft:directory",
+      "prefix": "entity/conduit/",
+      "source": "entity/conduit"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/bell/bell_body"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/enchantment/enchanting_table_book"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:trims/items/helmet_trim",
+        "minecraft:trims/items/chestplate_trim",
+        "minecraft:trims/items/leggings_trim",
+        "minecraft:trims/items/boots_trim"
+      ],
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "quartz": "minecraft:trims/color_palettes/quartz",
+        "iron": "minecraft:trims/color_palettes/iron",
+        "netherite": "minecraft:trims/color_palettes/netherite",
+        "redstone": "minecraft:trims/color_palettes/redstone",
+        "copper": "minecraft:trims/color_palettes/copper",
+        "gold": "minecraft:trims/color_palettes/gold",
+        "emerald": "minecraft:trims/color_palettes/emerald",
+        "diamond": "minecraft:trims/color_palettes/diamond",
+        "lapis": "minecraft:trims/color_palettes/lapis",
+        "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "resin": "minecraft:trims/color_palettes/resin",
+        "endril": "endril-ore:trims/color_palettes/endril"
+      }
+    }
+  ]
+}
